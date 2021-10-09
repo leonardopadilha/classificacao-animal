@@ -1,0 +1,1 @@
+**Exercício criado com a intenção de praticar a estratégia de teste Array Ortogonal. Os testes foram criados utilizando o exercício 1049 do site urionlinejudge https://www.urionlinejudge.com.br/judge/en/problems/view/1049.**
